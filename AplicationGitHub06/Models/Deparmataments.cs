@@ -8,6 +8,5 @@ namespace AplicationGitHub06.Models
     public class Deparmataments
     {
         public int MyProperty10 { get; set; }
-        public int MyProperty11 { get; set; }
     }
 }
